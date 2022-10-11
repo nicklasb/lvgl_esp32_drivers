@@ -83,6 +83,8 @@ extern "C" {
 #endif
 #endif
 
+#define SPI_HOST_MAX 3
+
 /**********************
  *      TYPEDEFS
  **********************/
